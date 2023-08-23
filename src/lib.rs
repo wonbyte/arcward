@@ -1,4 +1,3 @@
-use std::cmp::Ordering;
 use std::marker::PhantomData;
 use std::ops::Deref;
 use std::ptr::NonNull;
